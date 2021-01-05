@@ -10,7 +10,11 @@
       "title": "Devices",
       "uri": "reference/devices.v1.yaml"
     },
-
+    {
+      "type": "item",
+      "title": "Hello There",
+      "uri": "docs/Test.md"
+    },
     {
       "type": "divider",
       "title": "Models"
