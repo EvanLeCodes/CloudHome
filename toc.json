@@ -11,11 +11,6 @@
       "uri": "reference/devices.v1.yaml"
     },
     {
-      "type": "item",
-      "title": "Test Article",
-      "uri": "docs/Test.md"
-    },
-    {
       "type": "divider",
       "title": "Models"
     },
