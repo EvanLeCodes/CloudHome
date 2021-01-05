@@ -10,11 +10,7 @@
       "title": "Devices",
       "uri": "reference/devices.v1.yaml"
     },
-        {
-      "type": "item",
-      "title": "Explaining Our Endpoints",
-      "uri": "reference/Test.md"
-    },
+
     {
       "type": "divider",
       "title": "Models"
